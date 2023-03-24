@@ -129,3 +129,5 @@ nav:
     - PowerShell: windows/powershell.md
   - Coding:
     - JavaScript: coding/javascript.md
+  - Troubleshooting:
+    - Printer Troubleshooting: troubleshooting/printer.md
