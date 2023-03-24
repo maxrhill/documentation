@@ -10,7 +10,7 @@ theme:
   name: material
   custom_dir: src/.overrides
   features:
-    # - announce.dismiss
+    # - announce.dismiss 
     - content.action.edit
     - content.action.view
     - content.code.annotate
