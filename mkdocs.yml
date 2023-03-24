@@ -1,6 +1,6 @@
 site_name: Documentation
 site_url: 
-repo_url: maxrhill.github.io
+repo_url: maxrhill.github.io/maxrhill
 edit_uri: edit/main/docs/
 theme:
   name: material
