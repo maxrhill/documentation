@@ -1,6 +1,6 @@
 site_name: Documentation
 site_url: 
-repo_url: https://github.com/maxrhill
+repo_url: maxrhill.github.io
 edit_uri: edit/main/docs/
 theme:
   name: material
@@ -126,4 +126,4 @@ markdown_extensions:
 # Page tree
 nav:
   - Active Directory:
-    - PowerShell: Pentest/RemoteAccess.md
+    - PowerShell: windows/powershell.md
