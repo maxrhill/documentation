@@ -1,7 +1,7 @@
 site_name: Documentation
-site_url: https://maxrhill.github.io/maxrhill
-repo_url: https://github.com/maxrhill
-edit_uri: edit/main/maxrhill/maxrhill
+site_url: https://maxrhill.github.io/maxrhill/
+repo_url: https://github.com/maxrhill/
+edit_uri: edit/main/docs
 theme:
   name: material
 
