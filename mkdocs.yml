@@ -127,3 +127,5 @@ markdown_extensions:
 nav:
   - Active Directory:
     - PowerShell: windows/powershell.md
+  - Coding:
+    - JavaScript: coding/javascript.md
