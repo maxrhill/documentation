@@ -38,7 +38,7 @@
     e. Check the box next to "Active Directory Domain Services" and click "Next".  
           
     f. Click "Next" through the "Features" and "AD DS" screens until you reach the "Confirmation" screen.  
-  
+    
     g. Click "Install" to start the installation process.  
   
 * Once the AD DS role is installed, you can use the Active Directory Domain Services Configuration Wizard to configure your domain. Follow these steps:  
