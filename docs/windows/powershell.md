@@ -25,4 +25,4 @@ Add-Computer -DomainName max.local -Server DC1 -PassThru -Verbose
 
 ### PowerShell Modules  
 Here is a menu driven PowerShell module that has multiple options.  
-* [PowerShell Menu Module](https://github.com/maxrhill/powershell-scripts/blob/e3c99c6397fb8fae13e12a644b7ee5f56064ea28/menu/menu.psm1)  
+* [PowerShell Menu Module](https://github.com/maxrhill/powershell-scripts/blob/main/menu/menu.psm1)  
