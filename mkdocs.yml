@@ -131,3 +131,5 @@ nav:
     - JavaScript: coding/javascript.md
   - Troubleshooting:
     - Printer Troubleshooting: troubleshooting/printer.md
+  - Printers:
+    - Printers: printers/printers.md
