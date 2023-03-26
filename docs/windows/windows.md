@@ -8,11 +8,11 @@
 * Remove any unwanted programs or settings that you do not want included in the baseline image. This can include default programs, bloatware, or any other settings that you do not want included in the final image.  
 * Run the Windows System Preparation (Sysprep) tool to prepare the image for duplication. This tool removes any unique system-specific information from the computer, such as the computer name, security identifiers (SIDs), and other unique identifiers. To use Sysprep, follow these steps:  
 
-    a. Open the Command Prompt as an administrator.  
+        a. Open the Command Prompt as an administrator.  
   
-    b. Navigate to the Sysprep folder located in %systemroot%\system32\sysprep.  
+        b. Navigate to the Sysprep folder located in %systemroot%\system32\sysprep.  
   
-    c. Run the Sysprep.exe file and select the "Enter System Out-of-Box Experience (OOBE)" option. Choose the "Generalize" option to remove system-specific information. Set the "Shutdown Options" to "Shutdown" and click "OK" to run Sysprep.  
+        c. Run the Sysprep.exe file and select the "Enter System Out-of-Box Experience (OOBE)" option. Choose the "Generalize" option to remove system-specific information. Set the "Shutdown Options" to "Shutdown" and click "OK" to run Sysprep.  
   
 
 * Once the computer has shut down, create a disk image of the computer using a disk imaging tool such as Clonezilla, Norton Ghost, or Windows Deployment Services.  
