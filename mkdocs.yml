@@ -126,6 +126,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Active Directory:
+    - Azure : windows/azure.md
     - Windows: windows/windows.md
     - PowerShell: windows/powershell.md
   - Coding:
