@@ -1,4 +1,4 @@
 
-## Index
+## Home
 
 Welcome to my website! It is dedicated to documenting my experiences and knowledge in various areas of interest. One of the primary purposes of this website is to provide a comprehensive documentation of my work and projects in an organized and accessible manner. By utilizing my website for documentation, I am able to share my knowledge with others and provide helpful resources for individuals looking to learn and grow in similar areas. I believe that documentation is an essential aspect of any successful project or endeavor, and my website serves as a centralized location for all of my documentation needs. Whether you are here to learn, research, or simply explore, I hope that you find the information on my website helpful and informative.  
